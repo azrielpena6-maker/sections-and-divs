@@ -1,0 +1,36 @@
+
+/*section*/
+.projects-section {
+    background-color: #dbeafe;
+    padding: 30px;
+    margin: 20px 0;
+    border: 2px solid #2563eb;
+    border-radius: 10px;
+}
+
+
+.project-contaier {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+.project-box {
+    background-color: #bbf7d0;
+    padding: 20px;
+    border: 2px solid #16a34a;
+    border-radius: 8px;
+    flex: 1 1 180px;
+}
+
+
+.project-box h3 {
+    color: #166534;
+    margin-top: 0;
+}
+
+
+.project-box p {
+    color: #14532d;
+}
