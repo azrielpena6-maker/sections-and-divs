@@ -9,7 +9,7 @@
 }
 
 
-.project-contaier {
+.projects-contaier {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
